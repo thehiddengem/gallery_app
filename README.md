@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# Final Questions
+## Final Questions
 1) How long did the assessment take to complete? Was there any task that took significantly longer than the others, and if so why?
 
 The assessment took approximately 2 and a half hours to complete. The task that took significantly longer than the others was formatting the carousel card because I initially did not know how to use clipBehavior: Clip.antiAlias. To address this, I conducted a small research to understand how to use it effectively. After finding the necessary information, I was able to implement it correctly in the code.
